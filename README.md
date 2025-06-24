@@ -20,3 +20,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agetion&show_icons=true&theme=tokyonight&cache_seconds=1800&locale=en" alt="agetion" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agetion&theme=dark" alt="agetion" /></p>
+
+---
+
+<h3 align=left">Donat me:</h3>
+<img src="https://img.shields.io/badge/agetionwallet.ton-blue?style=for-the-badge&logo=ton&logoColor=white"/>
+<p align="left">
+</p>
